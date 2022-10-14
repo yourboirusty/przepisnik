@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "5d90970d1e459d29",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1662328d47d9cde",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "desery/ciastka maślane.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8287ea22aadae951",
+    "type": "split",
+    "children": [
+      {
+        "id": "e363904e5d132e15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e34ad1d24b74463",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "124b49e57a52e92c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21e11d9fc89a95ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "81c098883aea83e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81fb193c15cbc3f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "desery/ciastka maślane.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d1662328d47d9cde",
+  "lastOpenFiles": [
+    "desery/ciastka maślane.md",
+    "obiady/pizza.md",
+    "oliwa z oliwek.md",
+    "drożdże.md",
+    "drożdże caputo.png",
+    "sosy/mangobanero.md",
+    "sosy/sos pomidorowy.md",
+    "obiady/ciasto na pizzę.md",
+    "cukier.md",
+    "mąka 00.md"
+  ]
+}

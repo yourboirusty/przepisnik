@@ -26,23 +26,27 @@ tags
 ### przygotowanie
 
 1. Czosnek, imbir i cebulkę posiekać w kosteczkę.
-2. Zblendować razem z pastą i sosami.
-3. Razem z sosem sojowym i pastą miso wrzucić do wcześniej zagotowanego bulionu.
-4. Trzymać na granicy wrzenia ok. 30 minut.
-
-> [!TIP] Kluski pakowane próżniowo można wrzucić ok 15 minut przed podaniem.
+2. Dodać pastę miso, sosy i opcjonalnie masło orzechowe.
+3. Zblendować.
+4. Wrzucić do wcześniej zagotowanego bulionu.
+5. Dorzucić suszone grzybki jeśli używamy.
+6. Trzymać na granicy wrzenia ok. 20 minut.
+7. *Zrobić egg-dropa: wbić jajko i powoli mieszać.
 
 ### dodatki
 >[!TIP] 2-3 duże i małe z umiarem.
 
 duże:
 - smażone tofu sticksy,
-- grillowane marynowane pieczarki,
+	- marynowane,
+ 	- obtoczone w mieszance 50/50 mąki ziemniaczanej i kukurydzianej,  
+- grillowane pieczarki,
+	- marynowane przez godzinę w oliwie z sosem teriyaki i tymiankiem,  
 - jajko na półmiękko,
 - grzybki shiitake,
 - minikolby kukurydzy,
 - marynowany imbir,
-- 
+- ogórek kiszony
 
 małe:
 - czarny sezam,
